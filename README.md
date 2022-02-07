@@ -8,7 +8,7 @@ SOLID is an acronym which stands for as follows:
 
 1. Single Responsibility Principle
 2. Open and Closed Principle
-3. Liskon`s Substitution Principle
+3. Liskov`s Substitution Principle
 4. Interface Segragation Principle
 5. Dependency Inversion Principle
 
