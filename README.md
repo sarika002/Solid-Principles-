@@ -17,4 +17,6 @@ SOLID is an acronym which stands for as follows:
 
 SOLID principles are the set of OOP design principles intended to make the code more maintainable, reusable, scalable and stable.It is important to use these software design principles to reduce tight coupling in the code.
 
+# Note
+
 This repository is made to give you a basic understanding of SOLID principle in Python with simple examples.
